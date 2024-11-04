@@ -1,8 +1,6 @@
 # Site Settings
 title: "Declan Kneita"
 description: "Aspiring Software Engineer | AI/ML Engineer | Data Scientist"
-baseurl: "" 
-url: "https://DeclanKneitaPortfolio.github.io" # the base hostname & protocol for your site
 
 # GitHub Pages Theme
 theme: jekyll-theme-minimal
@@ -14,14 +12,4 @@ author:
   linkedin: "https://www.linkedin.com/in/declan-kneita/"
   github: "https://github.com/dk1414"
 
-# Navigation Bar
-# Minima doesn't support a navigation bar by default, but you can add navigation links in the layout or sidebar.
-# Alternatively, you can use includes to add a custom navigation bar.
-
-# Plugins (if any)
-plugins:
-  - jekyll-feed
-
-# Markdown Configuration
-markdown: kramdown
 
