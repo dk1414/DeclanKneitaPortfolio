@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, Git, GitHub, Docker, AWS, Google Cloud, Bash, Spark, Tableau, Linux, Anaconda, Jupyter Notebooks
 
 ## Education			        		
-- **Bachelor of Science in Computer Science** | Northwestern University (_April 2025_)
+- **Bachelor of Science in Computer Science** | **Northwestern University** (_April 2025_)
   - **Cumulative GPA:** 3.9/4.00, **Major GPA:** 4.00/4.00 
   - **Relevant Courses:** Deep Learning, Machine Learning, Data Science, Statistics, Data Structures & Algorithms
      
