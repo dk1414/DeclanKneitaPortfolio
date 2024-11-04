@@ -82,12 +82,5 @@
 
 
 
-## Contact
-
-I'm always open to discussing new opportunities or collaborations. Feel free to reach out through any of the platforms below:
-
-- **Email:** declankneita2025@u.northwestern.edu
-- **LinkedIn:** [https://www.linkedin.com/in/declan-kneita/](https://www.linkedin.com/in/declan-kneita/)
-- **GitHub:** [dk1414](https://github.com/dk1414)
 
 
