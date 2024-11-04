@@ -1,53 +1,93 @@
-# Data Scientist
+# Declan Kneita
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, Git, GitHub, Docker, AWS, Google Cloud, Bash, Spark, Tableau, Linux, Anaconda, Jupyter Notebooks
 
 ## Education			        		
-- B.S., Computer Science | Northwestern University (_April 2025_)
-
+- **Bachelor of Science in Computer Science**, Minor in Machine Learning and Data Science | Northwestern University (_April 2025_)
+  - **Cumulative GPA:** 3.9/4.00, **Major GPA:** 4.00/4.00 
+  - **Relevant Courses:** Deep Learning, Machine Learning, Data Science, Statistics, Data Structures & Algorithms
+     
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Machine Learning Researcher @ Northwestern University, Evanston, IL** (_Jul 2024 – Oct 2024_)  
+- Awarded Computer Science Innovation Grant to pursue independent machine learning research, focusing on Time Series Modeling using Transformers.
+- Collected and cleaned large datasets, ensuring high data quality for robust model training.
+- Built a preprocessing pipeline using Python and Pandas, streamlining data preparation processes.
+- Trained custom Transformer-based neural network in PyTorch, resulting in a 15% improvement in forecasting accuracy compared to baseline models.
+- Deployed a complete prediction pipeline for Transformer models using Docker and Google Vertex AI, facilitating scalable and efficient model deployment.
+
+**Machine Learning Engineering Intern @ SONIC Research Group, Evanston, IL** (_Sep 2023 – Jun 2024_)      
+- Collected and cleaned large-scale text data using Python, Pandas, and SQL, enhancing data quality for machine learning tasks.
+- Fine-tuned BERT and GPT large-language models (LLM), increasing text classification accuracy by 40%.
+- Developed automated data pipelines, reducing data processing time by 30%.
+- Deployed text classification models using Docker and Google Cloud Run, ensuring seamless integration with existing systems.
+- Collaborated with data scientists and engineers to optimize model performance and scalability.
+
+**Software Engineering Intern @ Toyota, Plano, TX** (_Jun 2023 – Sep 2023_)  
+- Developed Python-based secret scanning software, leading to recovery of 100,000+ compromised credentials.
+- Deployed REST APIs for scanning software using Docker, AWS Lambda, and RDS, improving API response time by 50%.
+- Implemented automated testing frameworks, enhancing software reliability and reducing bug rates.
+- Actively participated in daily standups and sprint planning/reviews as a member of a SCRUM team.
+- Collaborated with security teams to ensure compliance with industry standards and best practices.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### [ML-Driven Baseball Pitch Prediction Tool](https://github.com/dk1414/BaseballModeling) – PyTorch, Flask, Docker, Google Cloud (_Oct 2024_)
+- Developed an interactive web tool for baseball pitch outcome predictions, enabling users to directly interact with a custom Transformer model.
+- Implemented real-time data processing to handle user inputs and deliver instantaneous predictions.
+- Designed a user-friendly frontend interface using Flask, ensuring seamless interaction between users and the prediction model.
+- Deployed a scalable model inference API on Google Cloud Run, efficiently managing custom pitch sequences and delivering predictions with low latency.
+- Integrated comprehensive logging and monitoring to track model performance and system health.
+- **Live Demo:** [ML Baseball Pitch Predictor](https://dk1414.github.io/BaseballTransformerTool/)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### [RAG Chatbot Web App] – Python, LangChain, Docker, AWS (_Jun 2024_)
+- Developed a scalable chatbot application using Python and LangChain, leveraging OpenAI GPT-3.5 to answer user queries effectively.
+- Implemented advanced natural language understanding to handle diverse and complex user interactions.
+- Designed and developed a responsive frontend interface to enhance user engagement and experience.
+- Deployed APIs using Docker and AWS EC2, optimizing infrastructure to handle large volumes of user requests with high availability.
+- Integrated security measures to protect user data and ensure compliance with data privacy standards.
+- **Live Demo:** [RAG Chatbot](https://dk1414.github.io/ResumeRAG/)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### [Causal Inference Study on College Rankings](https://medium.com/@declankneita/does-college-rank-impact-earnings-a-causal-inference-approach-38981f27210c) – Python, Pandas, Scikit-Learn (_Mar 2024_)
+- Utilized causal inference techniques to estimate the effect of attending a top-ranked college on graduate income using the College Scorecard dataset.
+- Applied backdoor adjustment and bootstrapping methods to control for confounding variables, enhancing the robustness of the study.
+- Developed data imputation strategies to handle missing data, increasing the precision of income estimates.
+- Demonstrated a significant positive impact on earnings for graduates from top 200 schools, providing actionable insights for educational policymakers.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### [Lyric-Based Artist Similarity Analysis](https://github.com/dk1414/ArtistLyricEmbeddings) – Python, BERT, Scikit-Learn (_Jun 2024_)
+- Collected and processed song lyrics for 2,000 music artists using web scraping techniques, building a comprehensive lyric dataset for analysis.
+- Generated artist lyric embeddings with BERT, capturing semantic relationships and linguistic nuances.
+- Applied K-Means clustering to uncover patterns, revealing linguistic and genre-based similarities between artists.
+- Identified key factors influencing artist similarity, contributing to music recommendation systems and trend analysis.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### [Crossword Puzzle Generator and Player] (https://medium.com/@declankneita/generating-nyt-mini-style-crossword-puzzles-fcd6588a72af) – Python, Docker, Google Cloud Run (_Nov 2024_)
+- Developed a dynamic crossword puzzle generator and playing application, providing users with endless puzzle variations.
+- Implemented a robust Python backend to generate crossword puzzles of varying difficulty levels using custom algorithms.
+- Designed and developed an interactive frontend interface, enhancing user experience with intuitive navigation and responsive design.
+- Deployed the application using Docker containers and Google Cloud Run, ensuring scalability and efficient resource management.
+- **Live Demo:** [Crossword Puzzle App](https://dk1414.github.io/CrosswordGenerator/)
+
+### [Comparative Study of Pre-trained ResNet and Custom Models for Bird Image Classification] – Python, PyTorch, ResNet (_Mar 2024_)
+- Conducted a comparative analysis between pre-trained ResNet models and custom-designed convolutional neural networks for bird image classification tasks.
+- Implemented transfer learning by fine-tuning pre-trained ResNet models, achieving high accuracy with significantly reduced training time.
+- Designed and developed custom CNN architectures tailored specifically to the bird classification dataset, optimizing for both performance and computational efficiency.
+- Applied advanced data augmentation and preprocessing techniques to enhance model generalization and robustness against overfitting.
+- Evaluated model performance using key metrics such as accuracy, precision, recall, and F1-score, providing a detailed assessment of each approach's strengths and limitations.
+
+- **Notebook:** [Colab - Bird Image Classification]((https://colab.research.google.com/drive/1lVwhtgbIY_9jIZ5CSP5LJDSenn8U2FkJ?usp=sharing))
+
+
+
+## Contact
+
+I'm always open to discussing new opportunities or collaborations. Feel free to reach out through any of the platforms below:
+
+- **Email:** [declankneita2025@u.northwestern.edu]
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/declan-kneita/)
+- **GitHub:** [yourusername](https://github.com/dk1414)
+
+
