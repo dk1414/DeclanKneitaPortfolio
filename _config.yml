@@ -1,15 +1,5 @@
-# Site Settings
-title: "Declan Kneita"
-description: "Aspiring Software Engineer | AI/ML Engineer | Data Scientist"
+title: Declan Kneita
+logo: /assets/images/profile.jfif
 
-# GitHub Pages Theme
 theme: jekyll-theme-minimal
-
-# Author Information
-author:
-  name: "Declan Kneita"
-  email: "declankneita2025@u.northwestern.edu"
-  linkedin: "https://www.linkedin.com/in/declan-kneita/"
-  github: "https://github.com/dk1414"
-
 
