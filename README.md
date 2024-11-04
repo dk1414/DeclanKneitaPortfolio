@@ -6,6 +6,7 @@
 - **Bachelor of Science in Computer Science** | **Northwestern University** (_April 2025_)
   - **Cumulative GPA:** 3.9/4.00, **Major GPA:** 4.00/4.00 
   - **Relevant Courses:** Deep Learning, Machine Learning, Data Science, Statistics, Data Structures & Algorithms
+  - **Awards:** McCormick Computer Science Innovation Grant, Dean's List, Segal Design Institute Communication Award
      
 ## Work Experience
 
@@ -29,6 +30,12 @@
 - Implemented automated testing frameworks, enhancing software reliability and reducing bug rates.
 - Actively participated in daily standups and sprint planning/reviews as a member of a SCRUM team.
 - Collaborated with security teams to ensure compliance with industry standards and best practices.
+
+**Undergraduate Teaching Assistant @ Northwestern University, Evanston, IL** (_Sep 2022 – Jun 2024_)  
+- Assisted professor and supported over 150 students in understanding core machine learning concepts, including supervised and unsupervised learning, model evaluation, and feature engineering.
+- Conducted weekly office hours, providing individualized support to help students with assignments, projects, and understanding theoretical concepts.
+- Created supplementary learning materials, such as code examples and problem sets, to reinforce class concepts and assist with practical applications.
+- Graded assignments and provided constructive feedback on student submissions, helping students improve both technical skills and understanding.
 
 ## Projects
 
@@ -71,6 +78,7 @@
 - Deployed the application using Docker containers and Google Cloud Run, ensuring scalability and efficient resource management.
 - **Live Demo:** [Crossword Puzzle App](https://dk1414.github.io/CrosswordGenerator/)
 
+
 ### [Comparative Study of Pre-trained ResNet and Custom Models for Bird Image Classification](https://colab.research.google.com/drive/1lVwhtgbIY_9jIZ5CSP5LJDSenn8U2FkJ?usp=sharing) – Python, PyTorch, ResNet (_Mar 2024_)
 - Conducted a comparative analysis between pre-trained ResNet models and custom-designed convolutional neural networks for bird image classification tasks.
 - Implemented transfer learning by fine-tuning pre-trained ResNet models, achieving high accuracy with significantly reduced training time.
@@ -78,7 +86,13 @@
 - Applied advanced data augmentation and preprocessing techniques to enhance model generalization and robustness against overfitting.
 - Evaluated model performance using key metrics such as accuracy, precision, recall, and F1-score, providing a detailed assessment of each approach's strengths and limitations.
 
-- **Notebook:** [Colab - Bird Image Classification](https://colab.research.google.com/drive/1lVwhtgbIY_9jIZ5CSP5LJDSenn8U2FkJ?usp=sharing)
+  
+### [Early English Text Restoration Using Language Models](https://github.com/dk1414/OldEnglishRecovery) – Python, PyTorch, Hugging Face (_Nov 2023_)
+Led a team in developing a machine learning solution to restore damaged Early English texts by predicting missing characters and words.
+- Designed and implemented multiple models, including Feed Forward Neural Networks (FFNs), N-Grams, and BERT, to address different prediction tasks, such as word-based and character-based completions.
+- Trained models on the WikiText-2 corpus and fine-tuned for Early English, achieving significant accuracy improvements in text restoration tasks.
+- Evaluated model performance using perplexity and log probability, with the FFN model achieving the highest accuracy among tested approaches.
+
 
 
 
