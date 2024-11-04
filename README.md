@@ -71,7 +71,7 @@
 - Deployed the application using Docker containers and Google Cloud Run, ensuring scalability and efficient resource management.
 - **Live Demo:** [Crossword Puzzle App](https://dk1414.github.io/CrosswordGenerator/)
 
-### [Comparative Study of Pre-trained ResNet and Custom Models for Bird Image Classification] – Python, PyTorch, ResNet (_Mar 2024_)
+### [Comparative Study of Pre-trained ResNet and Custom Models for Bird Image Classification](https://colab.research.google.com/drive/1lVwhtgbIY_9jIZ5CSP5LJDSenn8U2FkJ?usp=sharing) – Python, PyTorch, ResNet (_Mar 2024_)
 - Conducted a comparative analysis between pre-trained ResNet models and custom-designed convolutional neural networks for bird image classification tasks.
 - Implemented transfer learning by fine-tuning pre-trained ResNet models, achieving high accuracy with significantly reduced training time.
 - Designed and developed custom CNN architectures tailored specifically to the bird classification dataset, optimizing for both performance and computational efficiency.
