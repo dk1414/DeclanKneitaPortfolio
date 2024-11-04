@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://DeclanKneitaPortfolio.github.io" # the base hostname & protocol for your site
 
 # GitHub Pages Theme
-theme: minima
+theme: jekyll-theme-minima
 
 # Author Information
 author:
