@@ -2,6 +2,7 @@ title: Declan Kneita
 logo: /assets/images/profile.jfif
 
 theme: jekyll-theme-minimal
+repository: false
 
 description: >
   Aspiring Engineer with a focus on Artificial Intelligence, Machine Learning, and Data Science.
