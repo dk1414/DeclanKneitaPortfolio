@@ -88,7 +88,7 @@
 
   
 ### [Early English Text Restoration Using Language Models](https://github.com/dk1414/OldEnglishRecovery) – Python, PyTorch, Hugging Face (_Nov 2023_)
-Led a team in developing a machine learning solution to restore damaged Early English texts by predicting missing characters and words.
+- Led a team in developing a machine learning solution to restore damaged Early English texts by predicting missing characters and words.
 - Designed and implemented multiple models, including Feed Forward Neural Networks (FFNs), N-Grams, and BERT, to address different prediction tasks, such as word-based and character-based completions.
 - Trained models on the WikiText-2 corpus and fine-tuned for Early English, achieving significant accuracy improvements in text restoration tasks.
 - Evaluated model performance using perplexity and log probability, with the FFN model achieving the highest accuracy among tested approaches.
