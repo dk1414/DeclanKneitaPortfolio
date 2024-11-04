@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, Git, GitHub, Docker, AWS, Google Cloud, Bash, Spark, Tableau, Linux, Anaconda, Jupyter Notebooks
 
 ## Education			        		
-- **Bachelor of Science in Computer Science**, Minor in Machine Learning and Data Science | Northwestern University (_April 2025_)
+- **Bachelor of Science in Computer Science** | Northwestern University (_April 2025_)
   - **Cumulative GPA:** 3.9/4.00, **Major GPA:** 4.00/4.00 
   - **Relevant Courses:** Deep Learning, Machine Learning, Data Science, Statistics, Data Structures & Algorithms
      
@@ -41,7 +41,7 @@
 - **Live Demo:** [ML Baseball Pitch Predictor](https://dk1414.github.io/BaseballTransformerTool/)
 
 
-### [RAG Chatbot Web App] – Python, LangChain, Docker, AWS (_Jun 2024_)
+### [RAG Chatbot Web App](https://dk1414.github.io/ResumeRAG/) – Python, LangChain, Docker, AWS (_Jun 2024_)
 - Developed a scalable chatbot application using Python and LangChain, leveraging OpenAI GPT-3.5 to answer user queries effectively.
 - Implemented advanced natural language understanding to handle diverse and complex user interactions.
 - Designed and developed a responsive frontend interface to enhance user engagement and experience.
@@ -64,7 +64,7 @@
 - Identified key factors influencing artist similarity, contributing to music recommendation systems and trend analysis.
 
 
-### [Crossword Puzzle Generator and Player] (https://medium.com/@declankneita/generating-nyt-mini-style-crossword-puzzles-fcd6588a72af) – Python, Docker, Google Cloud Run (_Nov 2024_)
+### [Crossword Puzzle Generator and Player](https://medium.com/@declankneita/generating-nyt-mini-style-crossword-puzzles-fcd6588a72af) – Python, Docker, Google Cloud Run (_Nov 2024_)
 - Developed a dynamic crossword puzzle generator and playing application, providing users with endless puzzle variations.
 - Implemented a robust Python backend to generate crossword puzzles of varying difficulty levels using custom algorithms.
 - Designed and developed an interactive frontend interface, enhancing user experience with intuitive navigation and responsive design.
@@ -78,7 +78,7 @@
 - Applied advanced data augmentation and preprocessing techniques to enhance model generalization and robustness against overfitting.
 - Evaluated model performance using key metrics such as accuracy, precision, recall, and F1-score, providing a detailed assessment of each approach's strengths and limitations.
 
-- **Notebook:** [Colab - Bird Image Classification]((https://colab.research.google.com/drive/1lVwhtgbIY_9jIZ5CSP5LJDSenn8U2FkJ?usp=sharing))
+- **Notebook:** [Colab - Bird Image Classification](https://colab.research.google.com/drive/1lVwhtgbIY_9jIZ5CSP5LJDSenn8U2FkJ?usp=sharing)
 
 
 
@@ -86,8 +86,8 @@
 
 I'm always open to discussing new opportunities or collaborations. Feel free to reach out through any of the platforms below:
 
-- **Email:** [declankneita2025@u.northwestern.edu]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/declan-kneita/)
-- **GitHub:** [yourusername](https://github.com/dk1414)
+- **Email:** declankneita2025@u.northwestern.edu
+- **LinkedIn:** [https://www.linkedin.com/in/declan-kneita/](https://www.linkedin.com/in/declan-kneita/)
+- **GitHub:** [dk1414](https://github.com/dk1414)
 
 
