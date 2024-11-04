@@ -1,4 +1,4 @@
-# Declan Kneita
+# Aspiring ML Engineer & Data Scientist
 
 #### Technical Skills: Python, SQL, Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, Git, GitHub, Docker, AWS, Google Cloud, Bash, Spark, Tableau, Linux, Anaconda, Jupyter Notebooks
 
