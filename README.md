@@ -94,6 +94,12 @@
 - Evaluated model performance using perplexity and log probability, with the FFN model achieving the highest accuracy among tested approaches.
 
 
+### [Generative MNIST Autoencoder + GAN](https://colab.research.google.com/drive/1-1T14lDYUfTbLWtcka_8OflBh_7n9yWJ?usp=sharing) – Python, PyTorch (_Feb 2023_)
+- Developed and trained an autoencoder and a Generative Adversarial Network (GAN) to generate realistic handwritten digit images from the MNIST dataset.
+- Fine-tuned the autoencoder architecture to encode and reconstruct images, achieving low reconstruction error on test images.
+- Implemented and optimized a GAN architecture, training the generator and discriminator in tandem to improve generated image quality and realism.
+- Evaluated model performance using qualitative visual analysis and quantitative metrics, observing high fidelity in generated digits that closely resembled the MNIST dataset.
+
 
 
 
