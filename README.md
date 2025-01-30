@@ -16,6 +16,8 @@
 - Built a preprocessing pipeline using Python and Pandas, streamlining data preparation processes.
 - Trained custom Transformer-based neural network in PyTorch, resulting in a 15% improvement in forecasting accuracy compared to baseline models.
 - Deployed a complete prediction pipeline for Transformer models using Docker and Google Vertex AI, facilitating scalable and efficient model deployment.
+- Invited to present research at 2025 MIT Sloan Sports Analytics Conference.
+- **Research Paper:** [Transformer-Based Baseball Modeling for Pitch Outcome Prediction and Strategy Optimization](https://www.sloansportsconference.com/research-papers/transformer-based-baseball-modeling-for-pitch-outcome-prediction-and-strategy-optimization)
 
 **Machine Learning Engineering Intern @ SONIC Research Group, Evanston, IL** (_Sep 2023 – Jun 2024_)      
 - Collected and cleaned large-scale text data using Python, Pandas, and SQL, enhancing data quality for machine learning tasks.
@@ -38,6 +40,14 @@
 - Graded assignments and provided constructive feedback on student submissions, helping students improve both technical skills and understanding.
 
 ## Projects
+
+### [Multi-Agent Baseball Analytics Chatbot](https://github.com/dk1414/AnalystEngineBackend) – Python, Quart, Cloud Run, GCP, AI Agents (_Jan 2025_)
+- Designed and implemented a chatbot that integrates multiple GPT-based agents to answer MLB queries and generate data-driven visualizations using Statcast (2015–2024 pitch-level data).
+- Built a **read-only SQL** query agent to fetch real-time stats from a ~6GB Postgres database on Cloud SQL, returning aggregated metrics (e.g., BA, OBP) for on-demand analytics.
+- Created a **visualization agent** leveraging a code interpreter tool to produce interactive charts (bar plots, heatmaps, line graphs) within a safe sandbox environment.
+- Deployed as a scalable Quart/Hypercorn microservice on **Google Cloud Run**, including multi-tenant concurrency support and environment-based ephemeral storage for generated images.
+- Developed a modern web chat UI that interacts seamlessly with the system’s RESTful endpoints.
+- **Live Demo:** [StatChat](https://dk1414.github.io/StatChat/)
 
 ### [ML-Driven Baseball Pitch Prediction Tool](https://github.com/dk1414/BaseballModeling) – PyTorch, Flask, Docker, Google Cloud (_Oct 2024_)
 - Developed an interactive web tool for baseball pitch outcome predictions, enabling users to directly interact with a custom Transformer model.
